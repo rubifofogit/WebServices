@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WebServices</string>
+    <string name="button_text">GET</string>
+    <array name="currency">
+        <item>DOLAR</item>
+        <item>PESOS</item>
+        <item>RUPIAS</item>
+        <item>YENES</item>
+        <item>PESETAS</item>
+    </array>
+</resources>
